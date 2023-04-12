@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>2</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting NeedIt Requested for - NeedIt: Active Weekley</display>
+        <indicator display_value="NeedIt: Active Weekley">9e85bd8f97022110e76c3c7e6253afeb</indicator>
+        <job display_value="temporary job for collecting NeedIt Requested for">6117390397422110e76c3c7e6253afc9</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 14:33:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e517390397422110e76c3c7e6253afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekley.temporary job for collecting NeedIt Requested for</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_e517390397422110e76c3c7e6253afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 14:33:02</sys_updated_on>
+    </pa_job_indicators>
+</record_update>
